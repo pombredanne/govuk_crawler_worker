@@ -1,0 +1,7 @@
+gom 'github.com/PuerkitoBio/goquery', :commit => '98316c249dbd0005ed8cd0ef955e5b65d919ddfe'
+gom 'github.com/Sirupsen/logrus', :commit => 'f92b7950b372b1db80bd3527e4d40e42555fe6c2'
+gom 'github.com/alphagov/radix', :commit => 'acc2681fddcde19503e01e18abf7ca9b16fabcc7'
+gom 'github.com/onsi/ginkgo', :commit => '75d0cd9c7ee52e99b13e6ccfd9e58b4f92b7795e'
+gom 'github.com/onsi/gomega', :commit => '835b5e4242c715976b98ed6bc6ece1d9c7879f66'
+gom 'github.com/quipo/statsd', :commit => '362aa3a4aeb5e3a01927b23250cc3f1fb8fe147f'
+gom 'github.com/streadway/amqp', :commit => '6ffc9248c4b16699477e7411084c2402f2f0c351'
